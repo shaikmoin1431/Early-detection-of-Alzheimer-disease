@@ -17,3 +17,9 @@ The implementation of this model reflects my contribution toward leveraging AI a
 
 # Project Overview
 Alzheimer's disease is a progressive neurological disorder that impairs memory, thinking ability, and behavior, eventually interfering with a person's daily functioning. As the most common form of dementia, it poses a significant health challenge, particularly among the aging population. Early diagnosis plays a vital role in managing symptoms and slowing disease progression, making automated detection methods increasingly valuable. This project aims to address this need by leveraging advanced machine learning techniques for the accurate classification of brain MRI scans. Principal Component Analysis (PCA) is used to reduce the high dimensionality of MRI data, preserving key features while minimizing computational complexity. Following feature reduction, a Convolutional Neural Network (CNN) is employed to automatically learn spatial patterns and distinguish between healthy and Alzheimer-affected brains. To enhance model generalization and overcome data limitations, data augmentation techniques are applied to expand the training dataset. The resulting system demonstrates promising accuracy and efficiency, offering a step forward in the early detection of Alzheimer’s disease using AI-based medical imaging analysis.
+
+
+# Explore more about Alzheimer's Disease
+Link for the complete PDF of Alzheimer's disease is given below
+ https://ieeexplore.ieee.org/document/10353397/authors#authors 
+
